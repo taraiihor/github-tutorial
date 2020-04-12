@@ -1,0 +1,204 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+    }
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.wrapper{
+    background: #ffffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.said-bar
+{
+    background-color: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.my-photo{
+    width: 370px;
+}
+.about-me-container{
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.title-h3-bar{
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 55px;
+    margin-left: 40px;
+    margin-bottom: 15px;
+}
+
+.sylki{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    }
+.sylki1{
+        color: #ffffff;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+        text-decoration: none;
+ }
+.title-link{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 10px;
+    margin-left: 40px;
+    }
+.text-li_bar{
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 55px;
+}
+.text_li_bar{
+    color: #ffffff;
+}
+.about-me-container{
+    padding: 90px;
+}
+.profecion{
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+.name{
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    margin-bottom: 20px;
+}
+.abzats{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.block1{
+    margin-bottom: 65px;
+}
+.project-title{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+.projects-link{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+}
+.krapka{
+    color: #595959;
+    font-weight: 100;
+}
+.projects-text{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.dushka{
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.tsyfra{
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 15px;
+}
+.tsyfra1{
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 13px;
+}
+.block2{
+    margin-top: 55px;
+}
+.work-title{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+.developer{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.freelance{
+    color: #ff6b08;
+}
+.pidzagolovok{
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 10px;  
+}
+.rys{
+    color: #000000;
+}
+.text_anketa{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+.manager{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 25px;
+}
+.eduvation-title{
+    margin-top: 55px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.institute-title{
+    color: #ff6b08;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.zagolovok{
+    margin-bottom: 10px;
+}
